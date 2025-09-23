@@ -71,17 +71,7 @@ App runs on:
 
 ## 📸 Demo
 
-(You can add screenshots or a GIF of the app here)
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/39c32799-7d61-44f4-b0eb-1653dad3d299" />
 
----
 
-## 🙌 Credits
 
-This project was built by **Ashwell** ✨
-
-```
-
----
-
-Do you want me to also generate a **`requirements.txt`** for your project (so others can install dependencies easily)?
-```
