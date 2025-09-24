@@ -50,8 +50,8 @@ pip install -r requirements.txt
 Create a `.env` file in the root folder and add:
 
 ```
-weather_API_KEY=your_openweathermap_api_key
-GEMINI_API_KEY=your_gemini_api_key
+api_key = your_openweathermap_api_key
+gemini_api_key = your_gemini_api_key
 ```
 
 ⚠️ Never commit your `.env` file — it’s already ignored via `.gitignore`.
