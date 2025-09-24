@@ -69,9 +69,9 @@ App runs on:
 
 ---
 
-## 📸 Demo
+## 📸 DEMO
 
-<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/39c32799-7d61-44f4-b0eb-1653dad3d299" />
+https://github.com/user-attachments/assets/f45f73f1-a268-4082-8785-15be44bbc897
 
 
 
