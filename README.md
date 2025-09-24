@@ -71,7 +71,10 @@ App runs on:
 
 ## 📸 DEMO
 
-https://github.com/user-attachments/assets/f45f73f1-a268-4082-8785-15be44bbc897
+https://github.com/user-attachments/assets/ee63cff2-beb1-43a8-9fa6-71ae5bd62699
+
+
+
 
 
 
